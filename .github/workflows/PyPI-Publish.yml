@@ -60,4 +60,4 @@ jobs:
 
                 password: ${{ secrets.PYPI_PASS }}
 
-                repository_url: https://upload.pypi.org/legacy/
+                repository-url: https://upload.pypi.org/legacy/
